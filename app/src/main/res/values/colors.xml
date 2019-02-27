@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="dark_blue">#2E3944</color>
+    <color name="blue">#2B3867</color>
+    <color name="lightbluetint">#ccf2ff</color>
+    <color name="red">#951818</color>
+    <color name="pink">#E34882</color>
+    <color name="semi_tranparent">#77000000</color>
+    <color name="tranparent">#00000000</color>
+    <color name="light_grey">#858992</color>
+    <color name="c_light_blue">#1BB2E3</color>
+    <color name="c_dark_blue">#0953A4</color>
+    <color name="black">#000</color>
+    <color name="grey">#6F6F6F</color>
+    <color name="category_list_grey">#646464</color>
+    <color name="dark_grey">#3f3f3f</color>
+    <color name="cream">#E7E7E7</color>
+    <color name="white">#FFFFFF</color>
+    <color name="sky_blue">#1481FF</color>
+    <color name="lite_green">#82FA58</color>
+    <color name="lite_yellow">#F2F5A9</color>
+    <color name="gemini">#5D4CA0</color>
+    <color name="Grey_Txt_Field">#BABABA</color>
+    <color name="grey_dark">#646464</color>
+    <color name="home_icon_dark_blue">#0d256a</color>
+    <color name="maroon">#6B171E</color>
+    <color name="home_icon_light_green">#B3A904</color>
+    <color name="home_icon_blue">#2f478c</color>
+    <!-- App specific colors -->
+
+    <color name="bol_red_dashboard">#C41301</color>
+    <!-- <color name="bol_red">#BB1201</color> -->
+    <color name="bol_red">#bc1201</color>
+    <color name="holo_blue">#FF33B5E5</color>
+    <color name="progress_start">#B31025</color>
+    <color name="progress_end">#797B79</color>
+    <color name="blue_chat">#2C3E42</color>
+    <color name="lite_black">#515151</color>
+    <color name="dealables_red">#9A1917</color>
+    <color name="off_white">#BBA2A2</color>
+    <color name="dialog_text_color">#715151</color>
+    <color name="lite_brown">#B5ACA5</color>
+    <color name="salon_lite_brown">#6A4533</color>
+    <color name="lite_sky_blue">#DEE1E8</color>
+    <color name="blue_dark">#42599F</color>
+
+</resources>

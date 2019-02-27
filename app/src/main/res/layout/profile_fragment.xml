@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/grey_bg"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        android:weightSum="10"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/border"
+        android:paddingBottom="5dp"
+        android:paddingRight="15dp"
+        android:paddingTop="5dp"
+        android:paddingLeft="15dp"
+
+        >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="7"
+            android:text="Student ID"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            android:layout_gravity="center_vertical"
+           />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="3"
+            android:text="S2012-006"
+            android:textColor="@color/red"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_gravity="center_vertical"
+            android:id="@+id/Student_Id1"
+            />
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        android:weightSum="10"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/border"
+        android:paddingBottom="5dp"
+        android:paddingRight="15dp"
+        android:paddingTop="5dp"
+        android:paddingLeft="15dp">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Name"
+            android:layout_weight="7"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            android:layout_gravity="center_vertical"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="3"
+            android:text="Junaid Tanveer"
+            android:textColor="@color/red"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_gravity="center_vertical"
+            android:id="@+id/Name_Id1"
+            />
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        android:layout_marginTop="20dp"
+        android:weightSum="9"
+        android:background="@drawable/border"
+        android:paddingBottom="5dp"
+        android:paddingRight="15dp"
+        android:paddingTop="5dp"
+        android:paddingLeft="15dp">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            android:text="Phone"
+            android:layout_weight="3"
+            android:layout_gravity="center_vertical"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="3"
+            android:text="03227365199"
+            android:singleLine="true"
+            android:textStyle="bold"
+            android:layout_gravity="center_vertical"
+            android:id="@+id/Phone_Id1"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Change Phone number"
+            android:textColor="@color/white"
+            android:layout_weight="3"
+            android:textSize="10sp"
+            android:background="@drawable/btn"
+            android:layout_gravity="center_vertical"
+            android:id="@+id/change_phonenum_btn"/>
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="10"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/border"
+        android:paddingBottom="10dp"
+        android:paddingRight="15dp"
+        android:paddingTop="10dp"
+        android:paddingLeft="15dp">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            android:text="Password"
+            android:layout_weight="7"
+            android:layout_gravity="center_vertical"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_weight="3"
+            android:textColor="@color/white"
+            android:layout_gravity="center_vertical"
+            android:text="Change Password"
+            android:background="@drawable/btn"
+            android:id="@+id/change_pswd_button"
+            />
+
+
+    </LinearLayout>
+
+</LinearLayout>

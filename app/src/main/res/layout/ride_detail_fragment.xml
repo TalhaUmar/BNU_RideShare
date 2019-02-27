@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:fillViewport="true">
+<LinearLayout
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="10">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="5" >
+        <com.google.android.gms.maps.MapView
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/ride_detail_map"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+             />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="10dp"
+        android:layout_weight="5"
+        android:weightSum="5">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:padding="5dp"
+            android:layout_marginBottom="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/border">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="15sp"
+                android:drawableLeft="@drawable/icn_pointer"
+                android:layout_marginBottom="5dp"
+
+                android:id="@+id/source"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="15sp"
+                android:drawableLeft="@drawable/icn_pointer"
+                android:id="@+id/destination"/>
+
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginBottom="3dp"
+            android:weightSum="2"
+            android:layout_weight="1">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="15sp"
+                android:textColor="@color/black"
+                android:text="Date Time"
+                android:layout_weight="1"
+                android:textStyle="bold"
+
+                android:id="@+id/date"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_weight="1"
+                android:textColor="@color/red"
+
+                android:id="@+id/time"/>
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:layout_marginBottom="3dp"
+            android:layout_weight="1"
+            android:weightSum="2">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/ride_Detail_smoking"
+                android:textSize="15sp"
+                android:layout_marginRight="3dp"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:layout_weight="1"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textStyle="bold"
+                android:id="@+id/ride_Detail_food"
+                android:textSize="15sp"
+                android:gravity="center"
+                android:layout_weight="1"
+                />
+
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:layout_weight="1"
+            android:weightSum="3">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="15sp"
+                android:gravity="center"
+                android:textColor="@color/red"
+                android:id="@+id/ride_Detail_seats"
+                android:layout_marginRight="3dp"
+                android:layout_weight="1"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/ride_Detail_type"
+                android:textSize="15sp"
+                android:layout_marginRight="3dp"
+                android:gravity="center"
+                android:layout_weight="1"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:id="@+id/ride_Detail_cost"
+                android:textColor="@color/red"
+                android:layout_weight="1"
+                />
+
+
+        </LinearLayout>
+
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_weight="1"
+    android:weightSum="3">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="View Rider"
+        android:layout_marginRight="5dp"
+        android:textColor="#f5f5f5"
+        android:background="@drawable/btn"
+        android:layout_weight="1"
+        android:textSize="20dp"
+        android:id="@+id/view_rider_button"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Get Estimate"
+        android:layout_marginRight="5dp"
+        android:textColor="#f5f5f5"
+        android:layout_weight="1"
+        android:background="@drawable/btn"
+        android:textSize="20dp"
+        android:id="@+id/btn_amount"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Join Ride"
+        android:textColor="#f5f5f5"
+        android:background="@drawable/btn"
+        android:layout_weight="1"
+        android:textSize="20dp"
+        android:id="@+id/pickRide_button"
+        />
+
+
+
+
+</LinearLayout>
+
+
+    </LinearLayout>
+
+
+
+
+
+</LinearLayout>
+</ScrollView>

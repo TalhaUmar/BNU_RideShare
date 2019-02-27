@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="15dp">
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:inputType="textMultiLine"
+            android:ellipsize="start"
+            android:gravity="start"
+            android:hint="Write Message"
+            android:padding="10dp"
+            android:background="@drawable/border"
+            android:ems="10"
+            android:id="@+id/msg_txt"
+            android:lines="4"/>
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:weightSum="2"
+        android:padding="15dp">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Cancel"
+            android:background="@drawable/btn"
+            android:textColor="@color/white"
+            android:id="@+id/send_msg_cancel_btn"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Send"
+            android:layout_marginLeft="5dp"
+            android:background="@drawable/btn"
+            android:textColor="@color/white"
+            android:id="@+id/send_msg_send_btn"
+            />
+
+    </LinearLayout>
+
+
+
+</LinearLayout>

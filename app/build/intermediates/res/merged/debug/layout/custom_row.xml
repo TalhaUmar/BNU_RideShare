@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_width="match_parent">
+<LinearLayout
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="110dp"
+    android:weightSum="10"
+    android:layout_marginLeft="15dp"
+    android:layout_marginRight="15dp"
+    android:layout_marginTop="15dp"
+    android:padding="5dp"
+    android:background="@drawable/border">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="8"
+        android:orientation="vertical"
+        >
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:src="@drawable/icn_car"
+            android:padding="2dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:padding="2dp"
+            android:text=""
+            android:textColor="@color/black"
+            android:textSize="15sp"
+            android:gravity="center"
+            android:singleLine="true"
+            android:id="@+id/ride_seats"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_weight="2"
+        android:orientation="vertical"
+        android:padding="5dp"
+
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:weightSum="2"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="source"
+                android:textSize="15sp"
+                android:textColor="@color/red"
+                android:layout_weight="1"
+                android:singleLine="true"
+                android:gravity="center_vertical"
+                android:id="@+id/ride_source"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="destination"
+                android:textSize="15sp"
+                android:textColor="@color/red"
+                android:layout_weight="1"
+                android:singleLine="true"
+                android:gravity="center_vertical"
+                android:id="@+id/ride_destination"/>
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/seperator"></LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:weightSum="3"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="23:00"
+                android:textSize="15sp"
+                android:textColor="@color/red"
+                android:layout_weight="1"
+                android:singleLine="true"
+                android:gravity="bottom"
+                android:id="@+id/ride_time"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="23/12/2016 "
+                android:textSize="15sp"
+                android:textColor="@color/red"
+                android:layout_weight="1"
+                android:singleLine="true"
+                android:gravity="bottom"
+                android:id="@+id/ride_date"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text=""
+                android:textSize="20sp"
+                android:textColor="@color/red"
+                android:textStyle="bold"
+                android:layout_weight="1"
+                android:singleLine="true"
+                android:gravity="bottom"
+                android:id="@+id/ride_cost"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+
+</LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+
+        android:layout_marginTop="15dp"
+
+
+        android:background="@drawable/seperator">
+
+    </LinearLayout>
+</LinearLayout>
+

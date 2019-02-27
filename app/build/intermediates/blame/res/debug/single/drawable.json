@@ -1,0 +1,310 @@
+[
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icn_lock.png",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\src\\main\\res\\drawable\\icn_lock.png"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\profile_back.png",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\src\\main\\res\\drawable\\profile_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dropicon1.png",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\src\\main\\res\\drawable\\dropicon1.png"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn.png",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\src\\main\\res\\drawable\\btn.png"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\red_field1.png",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\src\\main\\res\\drawable\\red_field1.png"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\red_field.png",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\src\\main\\res\\drawable\\red_field.png"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\redlogo.png",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\src\\main\\res\\drawable\\redlogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\profile_logo.png",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\src\\main\\res\\drawable\\profile_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border.xml",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\src\\main\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\date_field.png",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\src\\main\\res\\drawable\\date_field.png"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icn_field_pointer.png",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\src\\main\\res\\drawable\\icn_field_pointer.png"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittxt.xml",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\src\\main\\res\\drawable\\edittxt.xml"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\textlogo.png",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\src\\main\\res\\drawable\\textlogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cloud_error.png",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\src\\main\\res\\drawable\\cloud_error.png"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\redsplash.png",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\src\\main\\res\\drawable\\redsplash.png"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\white_marker_small.png",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\src\\main\\res\\drawable\\white_marker_small.png"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icn_notification.png",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\src\\main\\res\\drawable\\icn_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\time_field.png",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\src\\main\\res\\drawable\\time_field.png"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icn_user.png",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\src\\main\\res\\drawable\\icn_user.png"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icn_menu.png",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\src\\main\\res\\drawable\\icn_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icn_phone.png",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\src\\main\\res\\drawable\\icn_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_arrow_drop_down.png",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\src\\main\\res\\drawable\\ic_arrow_drop_down.png"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icn_twit.png",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\src\\main\\res\\drawable\\icn_twit.png"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seperator.png",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\src\\main\\res\\drawable\\seperator.png"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spinner_item_divider.xml",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\src\\main\\res\\drawable\\spinner_item_divider.xml"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icn_share.png",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\src\\main\\res\\drawable\\icn_share.png"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icn_search.png",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\src\\main\\res\\drawable\\icn_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icn_pointer.png",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\src\\main\\res\\drawable\\icn_pointer.png"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\car_marker.png",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\src\\main\\res\\drawable\\car_marker.png"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icn_logout.png",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\src\\main\\res\\drawable\\icn_logout.png"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dropicon.png",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\src\\main\\res\\drawable\\dropicon.png"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\msg_icn.png",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\src\\main\\res\\drawable\\msg_icn.png"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icn_car.png",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\src\\main\\res\\drawable\\icn_car.png"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\phone_icn.png",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\src\\main\\res\\drawable\\phone_icn.png"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icn_flag.png",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\src\\main\\res\\drawable\\icn_flag.png"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icn_joined.png",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\src\\main\\res\\drawable\\icn_joined.png"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icn_mail.png",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\src\\main\\res\\drawable\\icn_mail.png"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icn_cam.png",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\src\\main\\res\\drawable\\icn_cam.png"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\grey_bg.png",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\src\\main\\res\\drawable\\grey_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dropdown_field.png",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\src\\main\\res\\drawable\\dropdown_field.png"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icn_msg.png",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\src\\main\\res\\drawable\\icn_msg.png"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icn_fb.png",
+        "source": "C:\\Users\\Talha\\AndroidStudioProjects\\BNURideshare 23-01-16\\app\\src\\main\\res\\drawable\\icn_fb.png"
+    }
+]

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="15dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Requestor Name"
+
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="@color/red"
+            android:id="@+id/requester_name_txt"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/seperator"
+            android:layout_marginTop="5dp "></LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="15dp"
+            android:weightSum="10">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" Pickup location : "
+                android:textColor="@color/black"
+                android:drawableLeft="@drawable/icn_pointer"
+                android:textStyle="bold"
+                android:textSize="12sp"
+                android:layout_weight="7"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Beaconhouse National University"
+                android:textSize="15sp"
+                android:id="@+id/requester_pickuplocation_txt"
+                android:layout_weight="3"/>
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:weightSum="10">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" Pickup location : "
+                android:textColor="@color/black"
+                android:drawableLeft="@drawable/icn_pointer"
+                android:textStyle="bold"
+                android:textSize="12sp"
+                android:layout_weight="7"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Destination location"
+                android:textSize="15sp"
+                android:id="@+id/requester_destination_txt"
+                android:layout_weight="3"/>
+
+        </LinearLayout>
+
+
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="100"
+        android:layout_marginTop="10dp"
+        >
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Accept"
+            android:background="@drawable/btn"
+            android:textColor="#f5f5f5"
+            android:textSize="20dp"
+            android:id="@+id/acceptResquest_button"
+            android:layout_marginRight="10dp"
+            android:layout_weight="50"
+            />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Reject"
+            android:background="@drawable/btn"
+            android:textColor="#f5f5f5"
+            android:textSize="20dp"
+            android:id="@+id/rejectRequest_button"
+            android:layout_weight="50"
+            />
+    </LinearLayout>
+
+</LinearLayout>

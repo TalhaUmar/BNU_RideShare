@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:hint="Student/Employee ID"
+        android:textColorHint="#C0C0C0"
+        android:typeface="normal"
+        android:layout_marginLeft="@dimen/edittxtmargin"
+        android:layout_marginRight="@dimen/edittxtmargin"
+        android:background="@drawable/red_field"
+        android:textColor="#ffffff"
+        android:layout_marginTop="@dimen/field_margintop"
+        android:paddingLeft="10dp"
+        android:id="@+id/Student_Id"
+        />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:hint="Name"
+        android:textColorHint="#C0C0C0"
+        android:typeface="normal"
+        android:layout_marginLeft="@dimen/edittxtmargin"
+        android:layout_marginRight="@dimen/edittxtmargin"
+        android:background="@drawable/red_field"
+        android:textColor="#ffffff"
+        android:layout_marginTop="@dimen/field_margintop"
+        android:paddingLeft="10dp"
+        android:id="@+id/Name_Id"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="100"
+        android:layout_marginLeft="@dimen/edittxtmargin"
+        android:layout_marginRight="@dimen/edittxtmargin"
+        android:layout_marginTop="@dimen/field_margintop">
+
+        <EditText
+            android:layout_width="230dp"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:hint="Phone"
+            android:textColor="#ffffff"
+            android:inputType="phone"
+            android:textColorHint="#C0C0C0"
+            android:typeface="normal"
+            android:singleLine="true"
+            android:background="@drawable/red_field"
+            android:paddingLeft="10dp"
+            android:id="@+id/Phone_Id"
+            android:layout_weight="20"
+            />
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_weight="80"
+            android:layout_marginLeft="10dp">
+            <TextView
+                android:id="@+id/Switch_txt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="14sp"
+                android:textColor="@color/red"
+                android:paddingBottom="4dp"
+                android:text="Public" />
+
+            <Switch
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textOff="Public"
+                android:textOn="Private"
+                android:typeface="normal"
+                android:textSize="20sp"
+                android:id="@+id/phoneStatus_id"
+                android:checked="false"
+                />
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:hint="Password"
+        android:textColor="#ffffff"
+        android:inputType="textPassword"
+        android:textColorHint="#C0C0C0"
+        android:typeface="normal"
+        android:singleLine="true"
+        android:background="@drawable/red_field"
+        android:layout_marginLeft="@dimen/edittxtmargin"
+        android:layout_marginRight="@dimen/edittxtmargin"
+        android:layout_marginTop="@dimen/field_margintop"
+        android:paddingLeft="10dp"
+        android:id="@+id/Password"
+
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:hint="Confirm Password"
+        android:textColor="#ffffff"
+        android:inputType="textPassword"
+        android:textColorHint="#C0C0C0"
+        android:typeface="normal"
+        android:singleLine="true"
+        android:background="@drawable/red_field"
+        android:layout_marginLeft="@dimen/edittxtmargin"
+        android:layout_marginRight="@dimen/edittxtmargin"
+        android:layout_marginTop="@dimen/field_margintop"
+        android:paddingLeft="10dp"
+        android:id="@+id/Confirm_Password"
+
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="FREE SIGNUP"
+        android:background="@drawable/btn"
+        android:textColor="#f5f5f5"
+        android:textSize="20dp"
+        android:layout_marginLeft="@dimen/edittxtmargin"
+        android:layout_marginRight="@dimen/edittxtmargin"
+        android:layout_marginTop="10dp"
+        android:id="@+id/signup_button"
+
+        />
+
+
+</LinearLayout>

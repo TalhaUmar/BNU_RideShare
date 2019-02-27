@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/grey_bg"
+        android:padding="20dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Date and Time"
+                android:textSize="20dp"
+                android:textColor="@color/red"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/seperator"
+            android:layout_marginTop="10dp">
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="@dimen/post_ride_layout_margintop"
+            android:weightSum="100">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Departure Date"
+                android:textSize="@dimen/post_ride_text_views_size"
+                android:layout_weight="50"
+                android:id="@+id/post_ride_txt_time"
+
+                />
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/red_field1"
+                android:hint="Select date"
+                android:paddingLeft="10dp"
+                android:layout_weight="50"
+                android:textColorHint="@color/white"
+                android:focusable="false"
+                android:id="@+id/post_ride_date"
+                />
+
+            <!--<Spinner-->
+            <!--android:spinnerMode="dialog"-->
+
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="30dp"-->
+            <!--android:layout_weight="50"-->
+            <!--android:background="@drawable/red_field"-->
+            <!--android:id="@+id/spin1"></Spinner>-->
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="@dimen/post_ride_layout_margintop"
+            android:weightSum="100">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Departure Time"
+                android:textSize="@dimen/post_ride_text_views_size"
+
+                android:layout_weight="50"
+                android:id="@+id/post_ride_text_date"/>
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/red_field1"
+                android:hint="Select time"
+                android:textColorHint="@color/white"
+                android:layout_weight="50"
+                android:paddingLeft="10dp"
+
+                android:focusable="false"
+                android:id="@+id/post_ride_time"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/seperator"
+            android:layout_marginTop="10dp">
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Vehicle"
+                android:textSize="20dp"
+                android:layout_marginTop="10dp"
+                android:textColor="@color/red"/>
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/seperator"
+            android:layout_marginTop="10dp">
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="@dimen/post_ride_layout_margintop"
+            android:weightSum="100">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Seats"
+                android:textSize="@dimen/post_ride_text_views_size"
+
+                android:layout_weight="50"
+                android:id="@+id/post_ride_text_seats"/>
+            <Spinner
+                android:spinnerMode="dropdown"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_weight="50"
+                android:background="@drawable/dropdown_field"
+                android:id="@+id/post_ride_seats">
+
+            </Spinner>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="@dimen/post_ride_layout_margintop"
+            android:weightSum="100">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Smoking"
+                android:textSize="@dimen/post_ride_text_views_size"
+
+                android:layout_weight="50"
+                android:id="@+id/post_ride_text_smoking"/>
+            <Spinner
+                android:spinnerMode="dropdown"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_weight="50"
+                android:background="@drawable/dropdown_field"
+                android:id="@+id/post_ride_smoking"></Spinner>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="@dimen/post_ride_layout_margintop"
+            android:weightSum="100">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Vehicle Type"
+                android:textSize="@dimen/post_ride_text_views_size"
+
+                android:layout_weight="50"
+                android:id="@+id/post_ride_text_vtype"/>
+            <Spinner
+                android:spinnerMode="dropdown"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_weight="50"
+                android:background="@drawable/dropdown_field"
+                android:id="@+id/post_ride_vtype"></Spinner>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="@dimen/post_ride_layout_margintop"
+            android:weightSum="100">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Cost per Km."
+                android:textSize="@dimen/post_ride_text_views_size"
+
+                android:layout_weight="50"
+                android:id="@+id/post_ride_text_cost"/>
+            <Spinner
+                android:spinnerMode="dropdown"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_weight="50"
+                android:background="@drawable/dropdown_field"
+                android:id="@+id/post_ride_cost"></Spinner>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="@dimen/post_ride_layout_margintop"
+            android:weightSum="100">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food/Drinks"
+                android:textSize="@dimen/post_ride_text_views_size"
+
+                android:layout_weight="50"
+                android:id="@+id/post_ride_text_food"/>
+            <Spinner
+                android:spinnerMode="dropdown"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_weight="50"
+                android:background="@drawable/dropdown_field"
+                android:id="@+id/post_ride_food"
+                ></Spinner>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/seperator"
+            android:layout_marginTop="10dp">
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Route"
+                android:textSize="20dp"
+                android:layout_marginTop="10dp"
+                android:textColor="@color/red"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn"
+                android:text="Continue"
+                android:layout_marginTop="10dp"
+                android:textColor="@color/white"
+                android:id="@+id/selectroute_btn"/>
+        </LinearLayout>
+
+    </LinearLayout>
+
+</ScrollView>

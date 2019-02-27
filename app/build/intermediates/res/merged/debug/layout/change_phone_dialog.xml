@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="15dp"
+        android:weightSum="100">
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Phone"
+            android:inputType="phone"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/border"
+            android:padding="5dp"
+            android:id="@+id/change_phone"/>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_weight="80"
+            android:layout_marginLeft="10dp">
+            <TextView
+                android:id="@+id/Switch_txt1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="14sp"
+                android:textColor="@color/red"
+                android:paddingBottom="4dp"
+                android:text="Public" />
+
+            <Switch
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textOff="Public"
+                android:textOn="Private"
+                android:typeface="normal"
+                android:textSize="20sp"
+                android:id="@+id/phoneStatus_id1"
+                android:checked="false"
+                />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:weightSum="2"
+        android:padding="15dp">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Cancel"
+            android:background="@drawable/btn"
+            android:textColor="@color/white"
+            android:id="@+id/change_phone_cancel_btn"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Update"
+            android:layout_marginLeft="5dp"
+            android:background="@drawable/btn"
+            android:textColor="@color/white"
+            android:id="@+id/change_phone_update_btn"
+            />
+
+    </LinearLayout>
+
+</LinearLayout>
